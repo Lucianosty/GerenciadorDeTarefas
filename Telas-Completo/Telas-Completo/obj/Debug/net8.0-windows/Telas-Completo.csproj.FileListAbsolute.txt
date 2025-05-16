@@ -1,0 +1,40 @@
+X:\DS\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.exe
+X:\DS\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.deps.json
+X:\DS\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.runtimeconfig.json
+X:\DS\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.dll
+X:\DS\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.pdb
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.Properties.Resources.resources
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.csproj.GenerateResource.cache
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.GeneratedMSBuildEditorConfig.editorconfig
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.AssemblyInfoInputs.cache
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.AssemblyInfo.cs
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.csproj.CoreCompileInputs.cache
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.dll
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\refint\Telas-Completo.dll
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.pdb
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.genruntimeconfig.cache
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\ref\Telas-Completo.dll
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.Principal.resources
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.FormInserirCliente.resources
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.FormListarClientes.resources
+X:\DS\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.FormTelaInicial.resources
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.exe
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.deps.json
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.runtimeconfig.json
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.dll
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\bin\Debug\net8.0-windows\Telas-Completo.pdb
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.FormInserirCliente.resources
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.FormListarClientes.resources
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.FormTelaInicial.resources
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.Principal.resources
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas_Completo.Properties.Resources.resources
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.csproj.GenerateResource.cache
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.AssemblyInfoInputs.cache
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.AssemblyInfo.cs
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.csproj.CoreCompileInputs.cache
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.dll
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\refint\Telas-Completo.dll
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.pdb
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\Telas-Completo.genruntimeconfig.cache
+U:\DS CRISTIANO\2_bimestre\Telas-Completo\Telas-Completo\obj\Debug\net8.0-windows\ref\Telas-Completo.dll
